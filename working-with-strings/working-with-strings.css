@@ -1,0 +1,26 @@
+html{
+    background-color: black;
+}
+body{
+    background-image: url(https://blog.codinghorror.com/content/images/uploads/2008/07/6a0120a85dcdae970b0128777051d6970c-pi.jpg);
+    background-size: 99%;
+    background-repeat: no-repeat;
+    background-position-x: center;
+   display: flex;
+   justify-content: center;
+   border: 50px solid black;
+}
+#footer{
+    border:30px solid red;
+    height: 700px;
+    width: 1950px;
+    margin-top: 1420px;
+    margin-right: 6px;
+    background-image: url(https://qph.fs.quoracdn.net/main-qimg-716da9bf37937689bc83785568da42ea.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: blanchedalmond;
+}
+#footer:hover{
+    color: mediumblue;
+}
